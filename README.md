@@ -1,5 +1,6 @@
 # -Resumo-do-lab-DIO
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
 IA + Machine Learning: Serviços para construir e modernizar aplicativos inteligentes, incluindo modelos de linguagem, reconhecimento de fala, visão computacional, etc.
 
 Analytics: Ferramentas para coletar, armazenar, processar, analisar e visualizar dados de qualquer variedade, volume ou velocidade. Exemplos incluem Azure Synapse Analytics e Azure Databricks.
